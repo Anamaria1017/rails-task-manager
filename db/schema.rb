@@ -20,3 +20,4 @@ ActiveRecord::Schema[7.0].define(version: 2022_11_15_112410) do
   end
 
 end
+  
